@@ -1,4 +1,4 @@
-# American-Express---Techgig-challenge
+# American-Express:Techgig-challenge
 
 Question
 Vaish is very fond of series and patterns. She is creative to the core and loves to solve the series.She always brings new series for her friends to solve.Last week she was working on something where she thought of an interesting series and now wants you to see if you can guess the series correctly or not.She is very excited about it and has decided that she will give you the first 7 terms of the series for help and the rest will have to be figured out by you
